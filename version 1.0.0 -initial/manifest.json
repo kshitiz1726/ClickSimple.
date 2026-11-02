@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "ClickSimple",
+  "version": "1.0.0",
+  "description": "Make complicated websites easier with step-by-step visual guidance.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "Open ClickSimple"
+  }
+}
